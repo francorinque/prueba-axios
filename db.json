@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "duki",
+      "last_name": "ssj",
+      "password": "3HjK5",
+      "email": "duki@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "trueno",
+      "last_name": "tr1",
+      "password": "3HUK5",
+      "email": "trueno@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "cazzu",
+      "last_name": "carp",
+      "password": "3SjK5",
+      "email": "cazzu@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "lilbaby",
+      "last_name": "eeuu",
+      "password": "3HFFK5",
+      "email": "lilbaby@gmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "leo",
+      "last_name": "messi",
+      "password": "3HJK5",
+      "email": "leomessi@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta - Boca Juniors",
+      "price": "35.000",
+      "category": "sport"
+    },
+    {
+      "id": 2,
+      "name": "Teclado - Ryzen",
+      "price": "14.000",
+      "category": "sport"
+    },
+    {
+      "id": 3,
+      "name": "Camiseta - Racing Club",
+      "price": "15.000",
+      "category": "sport"
+    },
+    {
+      "id": 4,
+      "name": "Camiseta - Real Madrid",
+      "price": "30.000",
+      "category": "sport"
+    },
+    {
+      "id": 5,
+      "name": "Camiseta - Barcelona",
+      "price": "20.500",
+      "category": "sport"
+    }
+  ]
+}
